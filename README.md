@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dave-roo
+- 👀 I’m interested in anything and everything VLSI/Digital design.
