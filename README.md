@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @dave-roo
 - 👀 I’m interested in anything and everything VLSI/Digital design.
+- You can find me on the AUS semiconductor group:
+- https://discord.com/channels/945479204227674204/945479204831641602
